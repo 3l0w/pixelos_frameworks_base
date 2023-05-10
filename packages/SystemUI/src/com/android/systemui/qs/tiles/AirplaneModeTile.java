@@ -130,7 +130,7 @@ public class AirplaneModeTile extends SecureQSTile<BooleanState> {
 
     @Override
     public CharSequence getTileLabel() {
-        return mContext.getString(R.string.airplane_mode);
+        return "Transplanage";
     }
 
     @Override
@@ -139,7 +139,7 @@ public class AirplaneModeTile extends SecureQSTile<BooleanState> {
         final int value = arg instanceof Integer ? (Integer)arg : mSetting.getValue();
         final boolean airplaneMode = value != 0;
         state.value = airplaneMode;
-        state.label = mContext.getString(R.string.airplane_mode);
+        state.label = "Transplanage";
         state.icon = ResourceIcon.get(state.value
                 ? R.drawable.qs_airplane_icon_on : R.drawable.qs_airplane_icon_off);
         state.state = airplaneMode ? Tile.STATE_ACTIVE : Tile.STATE_INACTIVE;

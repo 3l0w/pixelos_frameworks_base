@@ -224,8 +224,8 @@
     <string name="dessert_case" msgid="9104973640704357717">"Vitrine des desserts"</string>
     <string name="start_dreams" msgid="9131802557946276718">"Économiseur d\'écran"</string>
     <string name="ethernet_label" msgid="2203544727007463351">"Ethernet"</string>
-    <string name="quick_settings_dnd_label" msgid="7728690179108024338">"Ne pas déranger"</string>
-    <string name="quick_settings_bluetooth_label" msgid="7018763367142041481">"Bluetooth"</string>
+    <string name="quick_settings_dnd_label" msgid="7728690179108024338">"Petrificus"</string>
+    <string name="quick_settings_bluetooth_label" msgid="7018763367142041481">"Sonorus"</string>
     <string name="quick_settings_bluetooth_detail_empty_text" msgid="5760239584390514322">"Aucun appareil associé disponible."</string>
     <string name="quick_settings_bluetooth_secondary_label_battery_level" msgid="4182034939479344093">"<xliff:g id="BATTERY_LEVEL_AS_PERCENTAGE">%s</xliff:g> de batterie"</string>
     <string name="quick_settings_bluetooth_secondary_label_audio" msgid="780333390310051161">"Audio"</string>
@@ -244,7 +244,7 @@
     <string name="quick_settings_media_device_label" msgid="8034019242363789941">"Appareil multimédia"</string>
     <string name="quick_settings_user_title" msgid="8673045967216204537">"Utilisateur"</string>
     <string name="quick_settings_wifi_label" msgid="2879507532983487244">"Wi-Fi"</string>
-    <string name="quick_settings_internet_label" msgid="6603068555872455463">"Internet"</string>
+    <string name="quick_settings_internet_label" msgid="6603068555872455463">"Portoloin"</string>
     <string name="quick_settings_networks_available" msgid="1875138606855420438">"Réseaux disponibles"</string>
     <string name="quick_settings_networks_unavailable" msgid="1167847013337940082">"Réseaux non disponibles"</string>
     <string name="quick_settings_wifi_detail_empty_text" msgid="483130889414601732">"Aucun réseau Wi-Fi disponible"</string>
@@ -264,11 +264,11 @@
     <string name="quick_settings_connected" msgid="3873605509184830379">"Connecté"</string>
     <string name="quick_settings_connected_battery_level" msgid="1322075669498906959">"Connecté, batterie à <xliff:g id="BATTERY_LEVEL_AS_PERCENTAGE">%1$s</xliff:g>"</string>
     <string name="quick_settings_connecting" msgid="2381969772953268809">"Connexion en cours..."</string>
-    <string name="quick_settings_hotspot_label" msgid="1199196300038363424">"Point d\'accès"</string>
+    <string name="quick_settings_hotspot_label" msgid="1199196300038363424">"Patronus"</string>
     <string name="quick_settings_hotspot_secondary_label_transient" msgid="7585604088079160564">"Activation…"</string>
     <string name="quick_settings_hotspot_secondary_label_data_saver_enabled" msgid="1280433136266439372">"Écon. données activé"</string>
     <string name="quick_settings_hotspot_secondary_label_num_devices" msgid="7536823087501239457">"{count,plural, =1{# appareil}one{# appareil}many{# appareils}other{# appareils}}"</string>
-    <string name="quick_settings_flashlight_label" msgid="4904634272006284185">"Lampe de poche"</string>
+    <string name="quick_settings_flashlight_label" msgid="4904634272006284185">"Lumos"</string>
     <string name="quick_settings_flashlight_camera_in_use" msgid="4820591564526512571">"Caméra en cours d\'utilisation"</string>
     <string name="quick_settings_cellular_detail_title" msgid="792977203299358893">"Données mobiles"</string>
     <string name="quick_settings_cellular_detail_data_usage" msgid="6105969068871138427">"Conso des données"</string>
@@ -508,7 +508,7 @@
     <string name="qr_code_scanner_title" msgid="1938155688725760702">"Lecteur de code QR"</string>
     <string name="qr_code_scanner_updating_secondary_label" msgid="8344598017007876352">"Mise à jour"</string>
     <string name="status_bar_work" msgid="5238641949837091056">"Profil professionnel"</string>
-    <string name="status_bar_airplane" msgid="4848702508684541009">"Mode Avion"</string>
+    <string name="status_bar_airplane" msgid="4848702508684541009">"Transplanage"</string>
     <string name="zen_alarm_warning" msgid="7844303238486849503">"Vous n\'entendrez pas votre prochaine alarme <xliff:g id="WHEN">%1$s</xliff:g>."</string>
     <string name="alarm_template" msgid="2234991538018805736">"à <xliff:g id="WHEN">%1$s</xliff:g>"</string>
     <string name="alarm_template_far" msgid="3561752195856839456">"le <xliff:g id="WHEN">%1$s</xliff:g>"</string>
@@ -573,7 +573,7 @@
     <string name="snoozed_for_time" msgid="7586689374860469469">"Répétée après <xliff:g id="TIME_AMOUNT">%1$s</xliff:g>"</string>
     <string name="snoozeHourOptions" msgid="2332819756222425558">"{count,plural, =1{# heure}=2{# heures}one{# heure}many{# heures}other{# heures}}"</string>
     <string name="snoozeMinuteOptions" msgid="2222082405822030979">"{count,plural, =1{# minute}one{# minute}many{# minutes}other{# minutes}}"</string>
-    <string name="battery_detail_switch_title" msgid="6940976502957380405">"Économiseur de batterie"</string>
+    <string name="battery_detail_switch_title" msgid="6940976502957380405">"Episkey"</string>
     <string name="keyboard_key_button_template" msgid="8005673627272051429">"Bouton <xliff:g id="NAME">%1$s</xliff:g>"</string>
     <string name="keyboard_key_home" msgid="3734400625170020657">"Accueil"</string>
     <string name="keyboard_key_back" msgid="4185420465469481999">"Précédent"</string>
@@ -802,7 +802,7 @@
     <string name="accessibility_floating_button_action_move_to_edge_and_hide_to_half" msgid="662401168245782658">"Rapprocher du bord et masquer"</string>
     <string name="accessibility_floating_button_action_move_out_edge_and_show" msgid="8354760891651663326">"Éloigner du bord et afficher"</string>
     <string name="accessibility_floating_button_action_double_tap_to_toggle" msgid="7976492639670692037">"activer/désactiver"</string>
-    <string name="quick_controls_title" msgid="6839108006171302273">"Commandes des appareils"</string>
+    <string name="quick_controls_title" msgid="6839108006171302273">"Locomotor"</string>
     <string name="controls_providers_title" msgid="6879775889857085056">"Sélectionnez l\'appli pour laquelle ajouter des commandes"</string>
     <string name="controls_number_of_favorites" msgid="4481806788981836355">"{count,plural, =1{# commande ajoutée.}one{# commande ajoutée.}many{# commandes ajoutées.}other{# commandes ajoutées.}}"</string>
     <string name="controls_removed" msgid="3731789252222856959">"Supprimé"</string>
