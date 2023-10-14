@@ -179,6 +179,7 @@ android_library {
         "motion_tool_lib",
         "custom-preference",
         "vendor.lineage.powershare-V1.0-java",
+        "gson-prebuilt-jar"
     ],
     manifest: "AndroidManifest.xml",
 

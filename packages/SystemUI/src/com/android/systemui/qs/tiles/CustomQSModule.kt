@@ -121,4 +121,10 @@ interface CustomQSModule {
     @IntoMap
     @StringKey(WifiTile.TILE_SPEC)
     fun bindWifiTile(wifiTile: WifiTile): QSTileImpl<*>
+
+    /** Inject SNCFTile into tileMap in QSModule */
+    @Binds
+    @IntoMap
+    @StringKey(SNCFTile.TILE_SPEC)
+    fun bindSNCFTile(sncfTile: SNCFTile): QSTileImpl<*>
 }

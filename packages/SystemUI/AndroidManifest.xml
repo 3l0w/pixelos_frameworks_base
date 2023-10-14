@@ -354,6 +354,9 @@
     <uses-permission android:name="lineageos.permission.MANAGE_LIVEDISPLAY" />
     <uses-permission android:name="lineageos.permission.HARDWARE_ABSTRACTION_ACCESS" />
 
+    <!-- SNCF -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:name=".SystemUIApplication"
         android:persistent="true"
@@ -442,6 +445,9 @@
                 android:singleUser="true"
                 android:permission="android.permission.BIND_WALLPAPER"
                 android:exported="true" />
+
+        <service android:name=".sncf.SNCFService"
+          android:enabled="true" />
 
         <activity android:name=".tuner.TunerActivity"
                   android:enabled="false"
